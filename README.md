@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Cloud Administrator certificates<br>🌱 I’m currently learning: Python<br>👯 I’m looking to collaborate on: Cybersecurity, cloud, and python development<br>🤝 I’m looking for help with: Advanced cloud concepts and Python best practices<br>💬 Ask me about: Cybersecurity, AWS, and Python<br>⚡ Fun fact: I learn best by building real projects and experimenting with new tech
+🔭 I’m currently working on: Cloud Administrator certificates<br>🌱 I’m currently learning: Python - AWS<br>👯 I’m looking to collaborate on: Cybersecurity, cloud, and python development<br>🤝 I’m looking for help with: Advanced cloud concepts and Python best practices<br>💬 Ask me about: Cybersecurity, AWS, and Python<br>⚡ Fun fact: I learn best by building real projects and experimenting with new tech
 
 
 ## 🌐 Socials:
