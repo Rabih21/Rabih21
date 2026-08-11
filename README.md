@@ -1,16 +1,50 @@
-# 💫 About Me:
-🔭 I’m currently working on: Cloud Administrator certificates<br>🌱 I’m currently learning: Python - AWS<br>👯 I’m looking to collaborate on: Cybersecurity, cloud, and python development<br>🤝 I’m looking for help with: Advanced cloud concepts and Python best practices<br>💬 Ask me about: Cybersecurity, AWS, and Python<br>⚡ Fun fact: I learn best by building real projects and experimenting with new tech
+# 👋 Hi, I'm Rabih Hamdan
 
+### ☁️ Cloud & Infrastructure Enthusiast | Cybersecurity | Python | Linux
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rabih.ham) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rabih Hamdan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rabeeh.hm@gmail.com) 
+I'm an **ICT & Cybersecurity graduate** passionate about building, managing, and securing IT infrastructure.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Ubiquiti](https://img.shields.io/badge/ubiquiti-%230559C9.svg?style=for-the-badge&logo=ubiquiti&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rabih21&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Rabih21&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rabih21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+My current focus is on **Cloud Computing and Cloud Administration**, with hands-on learning across AWS, Azure, Linux, networking, automation, and infrastructure as code.
+
+I believe the best way to learn technology is to **build real projects, break things, troubleshoot them, and build them again better.**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Rabih21&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🚀 What I'm Currently Working On
+
+- ☁️ Preparing for **Cloud Administrator certifications**
+- 🟠 Building hands-on **AWS cloud projects**
+- 🐧 Improving my **Linux & Server Administration** skills
+- 🌐 Practicing **networking and cloud networking**
+- 🐍 Using **Python and Bash for automation**
+- 🏗️ Learning **Terraform & Infrastructure as Code**
+- 🐳 Working with **Docker & containerization**
+- 🔐 Exploring **Cloud Security & Cybersecurity**
+- 📚 Building projects that simulate real-world infrastructure
+
+---
+
+## 🎯 My Current Career Direction
+
+I'm currently focusing on becoming a **Cloud / Infrastructure Administrator** and eventually growing toward **Cloud Engineering and Cloud Security**.
+
+My learning path revolves around:
+
+```text
+Linux & Networking
+        ↓
+Cloud Fundamentals
+        ↓
+AWS / Azure
+        ↓
+Cloud Infrastructure
+        ↓
+Automation & Python
+        ↓
+Terraform / Infrastructure as Code
+        ↓
+Docker & Containers
+        ↓
+Cloud Security
+        ↓
+Cloud Engineering
